@@ -13,9 +13,9 @@ class Bill:
 
 
 class Flatmate:
-    """
-    create a flatmate person who lives in a flat and
-    share bills
+    """atmate person who lives in a flat and
+    share bill
+    create a fls
     """
 
     def __init__(self, name, days_in_house):
